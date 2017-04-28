@@ -1,0 +1,6 @@
+Precio Base de Mensualidad: 2200.00
+Servicio de Auxilio Mecánico: 400.00
+Servicio de Remolque hasta 50 Km: 200.00
+Servicio de Remolque hasta 200 Km: 600.00
+Servicio de Remolque hasta 500 Km: 1200.00
+Servicio de Remolque hasta 1000 Km: 3000.00
